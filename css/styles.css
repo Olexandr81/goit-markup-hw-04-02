@@ -33,7 +33,6 @@ body {
 
 .link {
   text-decoration: none;
-  color: #404bbf;
   
 }
 
@@ -104,6 +103,7 @@ padding-bottom: 24px; */
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
+  color:  #404bbf;
 }
 
 
