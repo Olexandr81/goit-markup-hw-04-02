@@ -94,7 +94,7 @@ padding-bottom: 24px; */
 }
 
 .web_logo {
-  color: #404bbf;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -103,7 +103,6 @@ padding-bottom: 24px; */
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-  color:  #404bbf;
 }
 
 
@@ -204,6 +203,9 @@ padding-bottom: 24px; */
 .contacts:hover,
 .contacts:focus {
   color: #404bbf;
+}
+.nav_link {
+    color: #404bbf;;
 }
 
 /* ==============HERO=============== */
