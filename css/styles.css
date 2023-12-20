@@ -121,7 +121,7 @@ padding-bottom: 24px; */
 }
 .nav_link {
   display: block;
-  color: #404bbf;
+  color: 2e2f42;
   font-weight: 500;
   padding-top: 24px;
   padding-bottom: 24px;
@@ -159,7 +159,7 @@ padding-bottom: 24px; */
 
 .color{
 
-  color: #2e2f42;;  
+  color: 404BBF;  
 }
 
 .adress-company {
@@ -179,10 +179,6 @@ padding-bottom: 24px; */
 .adress-list {
   display: flex;
   column-gap: 40px;
-}
-
-.list-item-adress {
-  margin-right: 40px;
 }
 
 .list-item-adress:last-child {
@@ -205,7 +201,7 @@ padding-bottom: 24px; */
   color: #404bbf;
 }
 .nav_link {
-    color: #404bbf;;
+    color: #404bbf;
 }
 
 /* ==============HERO=============== */
@@ -218,7 +214,7 @@ padding-bottom: 24px; */
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/work_table.jpg);
+    url(../images/work_table.jpg);
     background-repeat: no-repeat; 
     background-position: center; 
     background-size: cover; 
@@ -516,7 +512,6 @@ padding-bottom: 24px; */
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-  margin-bottom: 8px;
 }
 
 .portfolio_title {
